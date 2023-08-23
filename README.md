@@ -9,7 +9,7 @@
 
 # Задача: сделать панель выбора категории
 
-Стек: React JS, Redux Toolkit, SCSS
+Стек: React JS, Redux, MUI, SCSS
 
 С бэка приходят два массива - directions и filter
 В directions хранятся все существующие направления
